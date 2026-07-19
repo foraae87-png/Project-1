@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "question": "Which areas do you deliver to?", "answer": "We deliver across the city. Share your location on WhatsApp and we'll confirm delivery feasibility and estimated timing instantly. For corporate and bulk orders, we cover a wider radius." },
+    { "question": "How does the meal subscription work?", "answer": "Pick a weekly (₹999) or monthly (₹3,499) plan, choose your menu preferences, and we deliver fresh meals daily. You can pause, skip or modify your plan anytime with one WhatsApp message." },
+    { "question": "Can I place bulk or party orders?", "answer": "Yes — we handle bulk orders for birthdays, weddings, apartment community events and corporate gatherings. Message us your date, headcount and preferences, and we'll send a custom menu and quote." },
+    { "question": "Is the food really fresh?", "answer": "Absolutely. Everything is cooked fresh each morning in our hygienic kitchen. We don't freeze, pre-pack or reheat meals. What you eat today was cooked today." },
+    { "question": "What payment methods do you accept?", "answer": "We accept UPI, all major debit/credit cards, bank transfers and cash on delivery. Subscription payments can be made weekly or monthly. For corporate accounts, we offer weekly invoicing." },
+    { "question": "How early should I place my order?", "answer": "Daily meals can be ordered the same day (subject to slot availability). For bulk and catering orders, we recommend booking at least 48 hours in advance." },
+    { "question": "Can I customise my meal or request a special diet?", "answer": "Yes. Tell us about allergies, spice preferences, diet restrictions (jain, no onion-garlic, diabetic-friendly) and we'll tailor your meals accordingly." },
+    { "question": "Do you cater for corporate offices?", "answer": "Yes — we run daily office lunch programs and one-time team catering for companies of all sizes. We handle delivery, packing and weekly invoicing." },
+    { "question": "What are your business hours?", "answer": "We're open Monday to Sunday, 7:00 AM to 10:00 PM. WhatsApp orders are responded to during these hours." }
+  ]
+}

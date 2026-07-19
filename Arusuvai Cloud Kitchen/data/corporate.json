@@ -1,0 +1,7 @@
+{
+  "packages": [
+    { "name": "Daily Lunch", "price": "120", "unit": "/person/day", "desc": "Ongoing lunch subscription for your team.", "features": "Rotating South Indian menu\nVeg & non-veg options\nDelivered hot, on schedule\nWeekly invoicing", "featured": false },
+    { "name": "Team Catering", "price": "150", "unit": "/person", "desc": "One-time or recurring event catering.", "features": "Full banana leaf or buffet spread\n10 to 200+ people\nCustom menu selection\nOn-site setup available\nEco-friendly packaging", "featured": true },
+    { "name": "Bulk Orders", "price": "Custom", "unit": "", "desc": "Large quantity food for events & meetings.", "features": "Any quantity, any cuisine\n48-hour advance booking\nBulk pricing discounts\nDedicated coordinator", "featured": false }
+  ]
+}
