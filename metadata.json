@@ -1,0 +1,8 @@
+{
+  "name": "Arusuvai Cloud Kitchen",
+  "description": "A web application and static site for Arusuvai Cloud Kitchen with an integrated admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
