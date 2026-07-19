@@ -1,7 +1,0 @@
-{
-  "plans": [
-    { "name": "Weekly Plan", "price": "999", "period": "week", "desc": "Perfect for trying us out — 7 days of fresh meals.", "features": "1 meal daily for 7 days\nRotating breakfast & lunch menu\nFree home delivery\nPause or skip any day", "featured": false },
-    { "name": "Monthly Plan", "price": "3499", "period": "month", "desc": "Our best value — 30 days of homemade goodness.", "features": "1 meal daily for 30 days\nFull menu rotation (breakfast & lunch)\nFree priority delivery\nPause, skip or modify anytime\nSave ₹500 vs weekly", "featured": true },
-    { "name": "Custom Plan", "price": "Custom", "period": "", "desc": "Two meals a day, family plans or special diets.", "features": "2 meals daily (breakfast + lunch)\nFamily & couple options\nDiet-specific customisation\nDedicated WhatsApp support", "featured": false }
-  ]
-}
